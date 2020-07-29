@@ -1,0 +1,8 @@
+DAVIS       WCT/antimonocromatismo
+DAVIS       DBL/expertsA_cm1
+DAVIS       IntrinsicDecomposition/shading
+DAVIS-gray  colorization/ECCV16
+videvo      WCT/antimonocromatismo
+videvo      DBL/expertsA_cm1
+videvo      IntrinsicDecomposition/shading
+videvo-gray colorization/ECCV16
