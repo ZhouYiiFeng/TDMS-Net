@@ -68,7 +68,7 @@ python batch_test.py --name TDMS --which_epoch 65 --data_dir your/dataset/path -
 If you find this implementation useful in your work, please acknowledge it appropriately and cite the paper:
 
 ```
-@inproceedings{10.1145/3394171.3413788,
+@inproceedings{TDMS-MM2020,
 	author = {Zhou, Yifeng and Xu, Xing and Shen, Fumin and Gao, Lianli and Lu, Huimin and Shen, Heng Tao},
 	title = {Temporal Denoising Mask Synthesis Network for Learning Blind Video Temporal Consistency},
 	year = {2020},
