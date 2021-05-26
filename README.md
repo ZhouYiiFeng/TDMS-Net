@@ -2,7 +2,7 @@
 Temporal Denoising Mask Synthesis Network for Learning Blind Video Temporal Consistency
 
 **This paper has been accepted as a full research paper for presentation at the ACM Multimedia 2020 conference.**
-(paper)[https://dl.acm.org/doi/10.1145/3394171.3413788]
+[paper](https://dl.acm.org/doi/10.1145/3394171.3413788)
 
 Simply using the image-based algorithm to process the frame sequence independently always leads the unstable
 problems, shown in left part of animations. Our model takes the flicking frames as input and produces it’s coherent
