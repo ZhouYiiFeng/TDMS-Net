@@ -8,13 +8,13 @@ Simply using the image-based algorithm to process the frame sequence independent
 problems, shown in left part of animations. Our model takes the flicking frames as input and produces it’s coherent
 version. Our results are on the **right part** while the compared results are on the **left part**.
 <p align='center'>  
-  <img src='imgs/Abstract/ColorConstancy.gif' width='440'/>  
-  <img src='imgs/Abstract/InsDec.gif' width='440'/>
+  <img src='imgs/Abstract/ColorConstancy.gif' width='400'/>  
+  <img src='imgs/Abstract/InsDec.gif' width='400'/>
 </p>
 
 <p align='center'>
-  <img src='imgs/Abstract/color.gif' width='440'/>
-  <img src='imgs/Abstract/cycleGan.gif' width='440'/>
+  <img src='imgs/Abstract/color.gif' width='400'/>
+  <img src='imgs/Abstract/cycleGan.gif' width='400'/>
 </p>
 
 ## Introduction
