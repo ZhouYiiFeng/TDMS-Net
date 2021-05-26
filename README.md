@@ -64,3 +64,26 @@ To synthesize all the task results run:
 ```python
 python batch_test.py --name TDMS --which_epoch 65 --data_dir your/dataset/path --checkpoints_dir ./checkpoints/
 ```
+
+If you find this implementation useful in your work, please acknowledge it appropriately and cite the paper:
+
+```
+@inproceedings{10.1145/3394171.3413788,
+author = {Zhou, Yifeng and Xu, Xing and Shen, Fumin and Gao, Lianli and Lu, Huimin and Shen, Heng Tao},
+title = {Temporal Denoising Mask Synthesis Network for Learning Blind Video Temporal Consistency},
+year = {2020},
+publisher = {Association for Computing Machinery},
+url = {https://doi.org/10.1145/3394171.3413788},
+booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
+pages = {475–483},
+}
+```
+
+```
+@inproceedings{Lai-ECCV-2018,
+    author    = {Lai, Wei-Sheng and Huang, Jia-Bin and Wang, Oliver and Shechtman, Eli and Yumer, Ersin and Yang, Ming-Hsuan}, 
+    title     = {Learning Blind Video Temporal Consistency}, 
+    booktitle = {European Conference on Computer Vision},
+    year      = {2018}
+}
+```
