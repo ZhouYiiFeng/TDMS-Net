@@ -69,13 +69,11 @@ If you find this implementation useful in your work, please acknowledge it appro
 
 ```
 @inproceedings{10.1145/3394171.3413788,
-author = {Zhou, Yifeng and Xu, Xing and Shen, Fumin and Gao, Lianli and Lu, Huimin and Shen, Heng Tao},
-title = {Temporal Denoising Mask Synthesis Network for Learning Blind Video Temporal Consistency},
-year = {2020},
-publisher = {Association for Computing Machinery},
-url = {https://doi.org/10.1145/3394171.3413788},
-booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
-pages = {475–483},
+	author = {Zhou, Yifeng and Xu, Xing and Shen, Fumin and Gao, Lianli and Lu, Huimin and Shen, Heng Tao},
+	title = {Temporal Denoising Mask Synthesis Network for Learning Blind Video Temporal Consistency},
+	year = {2020},
+	booktitle = {Proceedings of the 28th ACM International Conference on Multimedia},
+	pages = {475–483},
 }
 ```
 
