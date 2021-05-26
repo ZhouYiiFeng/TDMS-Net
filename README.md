@@ -53,5 +53,9 @@ The pretrained model is upload to the BaiduDisk:
 To reproduce the results reported in the paper:
 1. FlowNet2.0, refer to [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch)
 2. The data prepared could refer to [fast blind video consistency](https://github.com/phoenix104104/fast_blind_video_consistency)
+3. run
 
+```python
+python test_TDMS_Net.py --name TDMS --dataset DAVIS --data_dir your/dataset/path --model TDMSNet --phase test --task WCT/wave --checkpoints_dir ./checkpoints/TDMS_Net --which_epoch 65
+```
 
