@@ -46,3 +46,6 @@ More quantity results can be found in [results.xlsx](results).
   <img src='imgs/table3.PNG'/>  
 </p>
 
+The pretrained model is upload to the BaiduDisk:
+- url:https://pan.baidu.com/s/1HRk7zRQaGhdYl3HidLSuxw 
+- code:eb8b 
