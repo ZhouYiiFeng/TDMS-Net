@@ -13,7 +13,7 @@ class FlowNet(BaseModel):
         from .flownet2_pytorch.utils import tools as flownet2_tools
         from .flownet2_pytorch.networks.resample2d_package.resample2d import Resample2d
         
-        self.flowNet = flownet2_tools.module_to_dict(flownet2_models)['FlowNet2']().cuda(self.gpu_ids[0])
+        self.flowNet = flownet2_tools.module_to_dict(flownet2_models)['FlowNet2'](fp16=opt.fp16).cuda(self.gpu_ids[0])
         print(os.path.abspath("."))
         checkpoint = torch.load('./pretrained_models/FlowNet2_checkpoint.pth.tar')
         self.flowNet.load_state_dict(checkpoint['state_dict'])
