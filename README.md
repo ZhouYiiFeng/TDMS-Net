@@ -49,3 +49,9 @@ More quantity results can be found in [results.xlsx](results).
 The pretrained model is upload to the BaiduDisk:
 - url:https://pan.baidu.com/s/1HRk7zRQaGhdYl3HidLSuxw 
 - code:eb8b 
+
+To reproduce the results reported in the paper:
+1. FlowNet2.0, refer to [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch)
+2. The data prepared could refer to [fast blind video consistency](https://github.com/phoenix104104/fast_blind_video_consistency)
+
+
